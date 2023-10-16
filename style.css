@@ -87,3 +87,11 @@ Define primary color
 
     background-image: url('000.webp');
   }
+  
+  .special{
+    background-color: rgba(155, 109, 109, 0.603);
+  }
+
+  .subName{
+    background-color: white;
+  }

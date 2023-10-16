@@ -744,7 +744,7 @@ $("span").remove();
 
 
       var subImg = $("<img>").attr({"src":getRecId.image, "class":"w-100"});
-      var oneName = $("<h3></h3>").attr("class", "mt-3 text-center sech3").text(getRecId.title);
+      var oneName = $("<h3></h3>").attr("class", "mt-3 text-center sech3 subName").text(getRecId.title);
       $(".divHead2ndPage").append(subImg,oneName);
       
      $(".divHead2ndPage").show(); 
